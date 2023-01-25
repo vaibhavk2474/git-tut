@@ -38,3 +38,7 @@ you can add directly using cmd
 <!-- Error: src refspec master does not match any – How to Fix in Git -->
 
 https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/
+
+<!-- to check origin -->
+
+git remote -v
