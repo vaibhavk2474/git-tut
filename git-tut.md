@@ -17,28 +17,28 @@
     ## git branch -M main
     ## git push -u origin main
 
- <!-- // remove any file -->
+# remove any file
 
     ### git rm fileForDeletion.txt
     ### git commit -m "delete  file"
     ### git push -u origin main
 
- <!-- // remove any folder -->
+# remove any folder
 
     ### git rm -r  gitFile-Deletion
     ### git commit -m "deleting a folder"
     ### git push -u origin main
 
- <!-- delete previous user name and password -->
+# delete previous user name and password
 
-click on window button > credential manager > Windows credentials > Generic credentials
-Next, remove or edit the Github keys.
-you can add directly using cmd
+    click on window button > credential manager > Windows credentials > Generic credentials
+    Next, remove or edit the Github keys.
+    you can add directly using cmd
 
-<!-- Error: src refspec master does not match any – How to Fix in Git -->
+# Error: src refspec master does not match any – How to Fix in Git
 
 https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/
 
-<!-- to check origin -->
+# to check origin
 
 git remote -v
